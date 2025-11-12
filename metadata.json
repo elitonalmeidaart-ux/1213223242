@@ -1,0 +1,5 @@
+{
+  "name": "SAMRT REFERENCE FX FINAL",
+  "description": "An image generator app with aspect ratio control and intelligent masking of reference images, simulating aspect ratio without visible borders.",
+  "requestFramePermissions": []
+}
